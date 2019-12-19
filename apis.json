@@ -1,0 +1,62 @@
+{
+    "name": "GreatSchools",
+    "description": "View parent ratings, reviews and test scores and choose the right preschool, elementary, middle or high school for public or private education.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/805-greatschools.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "marketplaces",
+        "schools"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/greatschools\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GreatSchools",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/805-greatschools.jpg",
+            "humanURL": "http:\/\/blogs.greatschools.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/greatschools-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/greatschools-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/GreatschoolsBlog"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/blogs.greatschools.org\/greatschoolsblog\/2013\/05\/who-gets-the-best-teachers.html"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/blogs.greatschools.org"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/greatschools-org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/greatschools"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.greatschools.org"
+        }
+    ]
+}
