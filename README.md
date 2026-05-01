@@ -1,25 +1,35 @@
-# Greatschools (greatschools)
-Greatschools provides API capabilities.
+# GreatSchools
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/greatschools/refs/heads/main/apis.yml)
+GreatSchools provides school information, ratings, and quality data via its Developer Hub APIs, including the School Essentials API for school details and the School Quality API for GreatSchools rating bands.
 
-## Scope
+## APIs
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+### GreatSchools School Essentials API
+Retrieve key information about schools across the United States based on proximity to a location or filtered by name, type, and more. Returns school names, addresses, grades offered, type, and website links.
 
-## Tags:
+- **Human URL:** https://www.greatschools.org/api
+- **Pricing:** $52.50/month base, 15,000 calls included, $0.003/additional call
 
- - API
+### GreatSchools School Quality API
+Builds on School Essentials by adding GreatSchools School Rating Bands (below average, average, above average) to assess school quality.
 
-## Timestamps
+- **Human URL:** https://www.greatschools.org/api
+- **Pricing:** $97.50/month base, 15,000 calls included, $0.006/additional call
 
-- **Created:** 2026-03-16 
-- **Modified:** 2026-03-16 
+## Tags
+
+- Schools
+- Education
+- Ratings
+- Geolocation
+
+## Common Properties
+
+| Property | URL |
+|----------|-----|
+| Website | https://www.greatschools.org |
+| Developer Hub | https://www.greatschools.org/api |
 
 ## Maintainers
 
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Kin Lane** - kin@apievangelist.com
