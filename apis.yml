@@ -44,6 +44,8 @@ apis:
       - type: Developer Hub
         url: https://www.greatschools.org/api
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/greatschools
   - type: Website
     url: https://www.greatschools.org
   - type: Developer Hub
