@@ -3,7 +3,7 @@ name: GreatSchools
 description: >-
   GreatSchools provides school information, ratings, and quality data via its Developer Hub APIs, including the School Essentials API for school details and the School Quality API for GreatSchools rating bands.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Schools
   - Education
