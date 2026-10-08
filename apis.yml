@@ -67,6 +67,12 @@ apis:
       - type: Developer Hub
         url: https://www.greatschools.org/api
 common:
+  - type: Plans
+    url: plans/greatschools-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/greatschools-rate-limits.yml
+  - type: FinOps
+    url: finops/greatschools-finops.yml
   - url: https://blog.greatschools.org/feed/
     type: BlogRSS
   - type: DomainSecurity
