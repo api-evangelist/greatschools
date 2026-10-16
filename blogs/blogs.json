@@ -1,0 +1,14 @@
+{
+  "repo": "greatschools",
+  "feeds": [
+    {
+      "source": "https://blog.greatschools.org/feed/",
+      "feed_url": "https://blog.greatschools.org/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
